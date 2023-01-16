@@ -1,2 +1,2 @@
-<h1> Hello Dear Students !! Welcome to DevOps Project-2 !! </h1>
-<h2> By Mr. Sai from Saidemy </h2>
+<h1> Hey, Hi Guys. This is the first Ansible Script used to automate deployment using Jenkins. </h1>
+<h2> Tried and implemented by Ganesh using different resources. </h2>
